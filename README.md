@@ -60,6 +60,12 @@ Avec h = 0.9
 ![Capture d’écran EDO, h=0 9](https://github.com/user-attachments/assets/a213b41c-d3e4-441b-8c0c-8d3afdba7561)
 
 Nous voyons que RK4 diverge moins par rapport aux Euler et Euler explicite est celle qui diverge le plus. 
+
+## Conclusion
+
+En conclusion, l'utilisation d'une méthode ou d'une autre dépend de la nature de l'équation à approchée, de la précision voulu, du pas de temps considéré ...
+
+
 ## Documentation
 
 Cours magistraux d'analyse numérique II pour Licence 3 Mathématiques d'Anaïs Crestetto, Nantes Université.

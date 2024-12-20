@@ -1,4 +1,4 @@
-# Methodes-resolution_EDO
+# Méthodes-resolution_EDO
 
 ## Présentation
 
@@ -54,8 +54,6 @@ En utilisant deux librairies python Numpy et Matplotlib.pyplot, nous avons impl�
 
 Avec h = 0.1
 ![Capture d’écran h](https://github.com/user-attachments/assets/a6537d14-b955-49c2-a846-cb8c3e83db06)
-
-
 
 
 Avec h = 0.9

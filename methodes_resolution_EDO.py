@@ -69,3 +69,5 @@ plt.title('Comparaison des méthodes de résolution numérique')
 plt.legend()
 plt.grid()
 plt.show()
+
+
